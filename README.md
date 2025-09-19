@@ -20,7 +20,6 @@
 
 ## Rules Implemented
 - Java 25 compatibility.
-- No Collections (e.g., ArrayList, HashSet).
 - No System.out.println.
 
 ---
