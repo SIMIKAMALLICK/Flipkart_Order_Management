@@ -3,9 +3,6 @@
 ## Description
 - A Java console-based project that simulates an order management system for Flipkart.  
 - Provides CRUD operations, product searching, and sorting.  
-- Uses arrays instead of Java Collections.  
-- No direct System.out.println usage, only IO.println.  
-- Designed to run in IntelliJ IDEA.  
 
 ## Features
 - Add products with ID, name, and price.  
